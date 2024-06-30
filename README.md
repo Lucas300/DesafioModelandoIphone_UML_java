@@ -12,4 +12,4 @@ Ao explorar este projeto, você verá exemplos práticos de como as interfaces p
 - Promover a reutilização de código através da abstração.
 - Facilitar a manutenção e a evolução do sistema ao longo do tempo.
 
-<img src="../DesafioModelandoIphone_UML_java/UML_imagem/DesafioModelandoIphone_UML_java.png">
+<img src="UML_imagem/DesafioModelandoIphone_UML_java.png">

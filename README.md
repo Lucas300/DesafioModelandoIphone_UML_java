@@ -6,6 +6,10 @@ A apresentação do iPhone destacou como um dispositivo poderia combinar as capa
 
 Ao explorar este projeto, você verá exemplos práticos de como as interfaces podem ser empregadas para:
 
+## Diagrama de Classes UML
+
 - Definir contratos claros entre diferentes componentes de software.
 - Promover a reutilização de código através da abstração.
 - Facilitar a manutenção e a evolução do sistema ao longo do tempo.
+
+<img src="../DesafioModelandoIphone_UML_java/UML_imagem/DesafioModelandoIphone_UML_java.png">
